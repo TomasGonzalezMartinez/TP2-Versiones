@@ -1,4 +1,4 @@
-# === Archivos compilados Java ===
+# === # Compiled class file ===
 *.class
 
 # === Logs ===
@@ -10,7 +10,7 @@
 # === Mobile Tools for Java (J2ME) ===
 .mtj.tmp/
 
-# === Archivos empaquetados ===
+# === Package Files ===
 *.jar
 *.war
 *.nar
@@ -23,16 +23,17 @@
 hs_err_pid*
 replay_pid*
 
-# === Carpetas de compilación de NetBeans ===
-/build/
-/dist/
-/nbbuild/
-/nbdist/
+# === Carpetas de compilación de NetBeans dentro de MixRepaso ===
+/MixRepaso/build/
+/MixRepaso/dist/
+/MixRepaso/nbbuild/
+/MixRepaso/nbdist/
 
-# === Configuración privada de NetBeans (cada usuario) ===
-/nbproject/private/
+# === Configuración privada de NetBeans(cada usuario)===
+/MixRepaso/nbproject/private/
 
 # === Archivos de IDEs alternativos ===
 /.idea/
 /.vscode/
 /.settings/
+
