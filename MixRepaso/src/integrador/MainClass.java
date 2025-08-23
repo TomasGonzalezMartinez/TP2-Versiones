@@ -17,7 +17,7 @@ public class MainClass {
     
     public static void main(String[] args) {
 
-        //parte 1 Sabrina
+        //parte 1 Samira
         
         /*
         
