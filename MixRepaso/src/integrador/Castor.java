@@ -3,7 +3,7 @@ package integrador;
 
 /**
  *
- * @author Cetera Evelyn
+ * @author GRUPO 2
  */
 public class Castor {
     protected String nombre;
