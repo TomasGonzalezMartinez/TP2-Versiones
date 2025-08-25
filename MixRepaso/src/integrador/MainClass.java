@@ -72,7 +72,7 @@ public class MainClass {
         //Parte 3 Tomas
         
         
-        /*  :3
+     //vamos los pibes! GRACIAS GUACHO <3
         
         Castor[] hermanos = new Castor[3];
         
@@ -114,7 +114,7 @@ public class MainClass {
                 System.out.println("Propulsión de " + h.getNombre() + ": " + h.getPropulsion() + "Kms/h");
             }
         
-        */
+       
     }
     
 }
